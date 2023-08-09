@@ -1,0 +1,4 @@
+- 👋 Hi guys, I’m Omar and welcome to my profile 
+- 🌱 I’m currently learning Dart, Flutter for the Front and Back End as well as UI/Ux
+- 💞️ I’m looking to collaborate on Open Source Dart & Flutter Projects
+- 📫 How to reach me ...
